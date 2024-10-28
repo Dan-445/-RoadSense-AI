@@ -29,7 +29,7 @@
 
 ## Demo
 
-![RoadSense-AI Demo](assets/demo.gif) <!-- Replace with actual demo GIF or images if available -->
+![RoadSense-AI Demo](41frame_040970.png) <!-- Replace with actual demo GIF or images if available -->
 
 ## Prerequisites
 
